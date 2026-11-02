@@ -1,7 +1,5 @@
 # Patient API
 
-## Tentang API
-
 Patient API adalah layanan untuk menyimpan dan mengelola data pasien.
 
 Cara kerjanya mirip pelayan di restoran. Ada tiga peran:
