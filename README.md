@@ -2,7 +2,7 @@
 
 Patient API adalah layanan untuk menyimpan dan mengelola data pasien.
 
-Bagaimana Patient API bekerja? Bayangkan saat Anda makan di restoran.
+Bagaimana Patient API bekerja? Bayangkan saat kita makan di restoran.
 
 Pelanggan memesan menu, misalnya nasi goreng. Pelayan mencatat pesanan itu lalu meneruskannya ke dapur. Dapur menyiapkan pesanan, kemudian pelayan mengambilnya dan mengantarkannya ke pelanggan sesuai pesanan.
 
