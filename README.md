@@ -5,7 +5,7 @@ Patient API adalah layanan untuk menyimpan dan mengelola data pasien.
 Cara kerjanya mirip pelayan di restoran. Ada tiga peran:
 - **Pelanggan**: aplikasi yang dipakai petugas klinik.
 - **Pelayan**: Patient API.
-- **Dapur**: database, tempat data pasien disimpan.
+- **Dapur**: sistem di belakang layar, tempat pesanan diproses dan data pasien disimpan.
 
 Misalnya, pelanggan memesan ke pelayan: "Tolong ambilkan data pasien nomor 1." Pelayan membawa pesanan itu ke dapur, lalu kembali mengantarkan hasilnya: "Ini data pasien nomor 1 yang Anda minta."
 
