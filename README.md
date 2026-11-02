@@ -92,7 +92,7 @@ Setiap pasien memiliki tepat **satu** detail (relasi one-to-one). Jika pasien di
    ```
    Sesuaikan port, username, dan password dengan MySQL di komputer Anda (MAMP biasanya memakai port `8889` dengan username dan password `root`).
 
-5. Buat tabel sekaligus isi 10 data pasien contoh (dibuat acak dengan Faker:
+5. Buat tabel sekaligus isi 10 data pasien contoh (dibuat acak dengan Faker):
    ```bash
    php artisan migrate --seed
    ```
