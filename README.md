@@ -34,7 +34,7 @@ Menu yang bisa dipesan:
 |---|---|---|---|
 | id | integer | otomatis | 1 |
 | name | string (maks. 255) | ya | Budi Santoso |
-| address | text (maks. 255) | ya | Jl. Merdeka No. 10, Jakarta |
+| address | text (maks. 1000) | ya | Jl. Merdeka No. 10, Jakarta |
 | phone | string (maks. 255) | ya | 081234567890 |
 
 ### Detail Pasien (`patient_details`)
@@ -47,7 +47,7 @@ Menu yang bisa dipesan:
 | date_of_birth | date (YYYY-MM-DD) | ya | 1995-08-17 |
 | parent_name | string (maks. 255) | ya | Slamet Santoso |
 | parent_occupation | string (maks. 255) | ya | Petani |
-| parent_address | text (maks. 255) | ya | Jl. Melati No. 5, Bandung |
+| parent_address | text (maks. 1000) | ya | Jl. Melati No. 5, Bandung |
 
 Setiap pasien memiliki tepat **satu** detail (relasi one-to-one). Jika pasien dihapus, detailnya ikut terhapus.
 
